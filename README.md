@@ -4,24 +4,28 @@
 
 </br>
 <div align="center">
+  
 <a href="https://github.com/Solearst">
-  <img width="150px" 
-       src="https://komarev.com/ghpvc/?username=Solearst&label=Profile%20views&color=000000&style=for-the-badge" 
+  <img 
+       src="https://komarev.com/ghpvc/?username=Solearst&label=Profile%20views&color=000000&style=for-the-badge"
        alt="ProfileViews"
-       title="Total Views"/> 
+       title="Total Views"
+       height="30000px"/>
 </a>
-</a>
+
+
 <a href="https://api.github-star-counter.workers.dev/user/Solearst">
-  <img width="115px" 
-       alt="StarCounter" 
-       title="StarsCounter" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=ffffff&logoColor=00000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Solearst"/> 
+  <img width="97px"
+       alt="StarCounter"
+       title="StarsCounter"
+       src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Solearst&query=stars&label=Stars&color=000000&labelColor=ffffff&style=for-the-badge&logo=star"/>
 </a>
+
 <a href="https://github.com/Solearst?tab=followers">
-  <img width="150px" 
+  <img width="127px" 
        alt="Followers" 
        title="GitHubFollowers" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/Solearst?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
+       src="https://img.shields.io/github/followers/Solearst?style=for-the-badge&color=000000&label=Followers"/>
 </a>
 </div>
 
@@ -46,21 +50,23 @@ I’m just getting started, but I’m motivated, curious, and excited to grow da
 
 <img align="right" alt="capa-Sobre" width="300" src="https://i.pinimg.com/originals/ce/f1/b6/cef1b6fa8e8f873b9c69cecd623bbaa6.gif"></br>
 
-<!-- A Little More About Me -->
+<div id="Info">
  <h3 align="center">
-
+  <img src="https://i.pinimg.com/originals/c8/d0/85/c8d0857459787a01d833f314a2a14e83.gif" width=15>
   A Little More About Me 
-
+  <img src="https://i.pinimg.com/originals/c8/d0/85/c8d0857459787a01d833f314a2a14e83.gif" width=15>
  </h3>
  
 
- ⬛ I like surrounding myself with people who push me to level up.</br>
+ ⚫ I like surrounding myself with people who push me to level up.</br>
  
- ⬜ Always willing to help anyone wanting to learn more about Front-End. </br>
+ ⚪ Always willing to help anyone wanting to learn more about Front-End. </br>
  
- ⬛ Interested in any large-scale project that makes me think.</br>
+ ⚫ Interested in any large-scale project that makes me think.</br>
  
- ⬜ Minimalism enthusiast.
+ ⚪ Minimalism enthusiast.
+
+</div>
 
 
 
